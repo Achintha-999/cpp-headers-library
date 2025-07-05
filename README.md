@@ -1,9 +1,7 @@
-Absolutely, Achintha! Here's a polished and more visually engaging version of your README.md with relevant icons, emojis, and formatting tweaks for extra clarity and appeal:
-
-📚 cpp-headers-library
+## 📚 cpp-headers-library
 
 🚀 Overview
-cpp-headers-library is a collection of lightweight, modular, and reusable C++ header files aimed at simplifying and accelerating development. Fully compatible with C++14 and later standards, the library provides foundational building blocks for common development tasks.
+- cpp-headers-library is a collection of lightweight, modular, and reusable C++ header files aimed at simplifying and accelerating development. Fully compatible with C++14 and later standards, the library provides foundational building blocks for common development tasks.
 
 ✨ Features
 - ⚙️ Header-only — No compilation or linking required
@@ -11,7 +9,7 @@ cpp-headers-library is a collection of lightweight, modular, and reusable C++ he
 - ♻️ Reusable Components — Drop into any project with ease
 - 🧩 Modular Design — Include only what you need
 
-📦 Included Headers
+## 📦 Included Headers
 📄 Log.h
 A minimalistic logging utility:
 #pragma once
@@ -30,7 +28,7 @@ Functions:
 ```
 git clone https://github.com/Achintha-999/cpp-headers-library.git\
 ```
-- 📂 Add the desired header(s) to your project
+##  📂 Add the desired header(s) to your project
   
 - 🧠 Include the header in your source code:
 #include "Log.h"
